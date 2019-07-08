@@ -1,18 +1,39 @@
 # vue-scheme
-Vue Scheme - A Production Ready Vue Boilerplate
 
-> **Scheme** [skeem] *noun*; a plan, design, or program of action to be followed; project.
+## Project setup
+```
+yarn install
+```
 
-## Contributing
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+### Compiles and minifies for production
+```
+yarn run build
+```
 
-## Authors
+### Run your tests
+```
+yarn run test
+```
 
-* [**Yaro Schiffelers**](https://github.com/yaroschiffelers) - *Initial work* 
+### Lints and fixes files
+```
+yarn run lint
+```
 
-See also the list of [contributors](https://github.com/yaroschiffelers/vue-scheme/contributors) who participated in this project.
+### Run your end-to-end tests
+```
+yarn run test:e2e
+```
 
-## License
+### Run your unit tests
+```
+yarn run test:unit
+```
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
