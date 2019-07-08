@@ -1,7 +1,9 @@
 {
   "name": "vue-scheme",
   "version": "0.1.0",
-  "private": true,
+  "author": "Yaro Schiffelers",
+  "licence": "MIT",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
