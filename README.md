@@ -38,8 +38,6 @@ yarn run test:e2e
 yarn run test:unit
 ```
 
-
-
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
